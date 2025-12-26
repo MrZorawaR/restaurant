@@ -10,7 +10,7 @@ export function Footer() {
           <div className="space-y-6">
             <Link href="/" className="block group">
               <h2 className="text-2xl font-serif text-cream font-bold tracking-wider group-hover:text-gold transition-colors">
-                KING’S CROWN
+                RESTAURANT
               </h2>
               <span className="block text-[10px] tracking-[0.3em] text-gold uppercase opacity-80 mt-1">
                 Taste of Royalty
@@ -39,7 +39,7 @@ export function Footer() {
             <ul className="space-y-3 text-sm text-white/70 font-sans">
               <li className="flex flex-col">
                 <span className="text-white/40 text-xs mb-1">Location</span>
-                <span>1st floor, J 349, Keshavpuram, Kalyanpur, Kanpur, Uttar Pradesh 208019</span>
+                <span>Any perfect location</span>
               </li>
               <li className="flex flex-col">
                 <span className="text-white/40 text-xs mb-1">Reservations</span>
@@ -47,7 +47,7 @@ export function Footer() {
               </li>
               <li className="flex flex-col">
                 <span className="text-white/40 text-xs mb-1">Email</span>
-                <span>hello@kingscrown.com</span>
+                <span>hello@restaurant.com</span>
               </li>
             </ul>
           </div>
@@ -74,9 +74,15 @@ export function Footer() {
 
         {/* Bottom */}
         <div className="flex flex-col md:flex-row justify-between items-center pt-8 border-t border-white/5 gap-4">
+        <div>
+
           <p className="text-xs text-white/40 font-sans">
-            © {new Date().getFullYear()} King's Crown Restaurant. All rights reserved.
+            © {new Date().getFullYear()} Restaurant. All rights reserved.
           </p>
+          <a href="www.croft.co.in" className="text-xs hover:text-white text-gold transition-colors" target="_blank" rel="noopener noreferrer">
+            Powered By Croft
+          </a>
+        </div>
           <div className="flex items-center space-x-6">
             <Link href="#" className="text-white/40 hover:text-gold transition-colors">
               <Instagram className="h-4 w-4" />

@@ -50,7 +50,7 @@ export function Hero() {
             Est. 2024
           </span>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold text-cream tracking-tighter leading-tight drop-shadow-2xl">
-            KING’S <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold via-yellow-200 to-gold">CROWN</span>
+            OUR <span className="text-transparent bg-clip-text bg-gradient-to-r from-gold via-yellow-200 to-gold">RESTAURANT</span>
           </h1>
           <p className="text-lg md:text-2xl text-cream/90 font-light tracking-wide max-w-2xl mx-auto font-sans">
             A culinary journey into the heart of <span className="text-gold italic font-serif">Royal Dining</span>

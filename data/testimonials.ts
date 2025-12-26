@@ -18,7 +18,7 @@ export const testimonials: Testimonial[] = [
     id: "t2",
     name: "James D.",
     role: "Regular Patron",
-    content: "The ambiance is unmatched. Whether it's a business dinner or a romantic evening, King's Crown delivers perfection.",
+    content: "The ambiance is unmatched. Whether it's a business dinner or a romantic evening, We delivers perfection.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1887&auto=format&fit=crop",
   },
   {

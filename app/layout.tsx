@@ -14,8 +14,8 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "King's Crown | Premium Dining",
-  description: "A taste of royalty. Experience luxury dining at King's Crown.",
+  title: "Restaurant | Premium Dining",
+  description: "A taste of royalty. Experience luxury dining at Restaurant.",
 };
 
 export default function RootLayout({

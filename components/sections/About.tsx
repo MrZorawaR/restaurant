@@ -27,7 +27,7 @@ export function About() {
             </div>
             
             <p className="text-white/70 text-lg leading-relaxed font-light">
-              King's Crown is not just a restaurant; it is a sanctuary of taste and luxury. 
+              It is not just a restaurant; it is a sanctuary of taste and luxury. 
               Designed with warm wood accents, polished copper, and deep velvet seating, 
               we invite you to step into a world where time slows down.
             </p>

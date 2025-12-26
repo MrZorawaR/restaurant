@@ -56,7 +56,7 @@ export function Navbar() {
         {/* Logo */}
         <Link href="/" className="group">
           <h1 className="text-2xl font-serif text-cream font-bold tracking-wider group-hover:text-gold transition-colors duration-300">
-            KING’S CROWN
+            RESTAURANT
           </h1>
           <span className="block text-[10px] tracking-[0.3em] text-gold uppercase opacity-80 group-hover:opacity-100 transition-opacity">
             Taste of Royalty
@@ -107,7 +107,7 @@ export function Navbar() {
                 <SheetTitle className="sr-only">Navigation Menu</SheetTitle>
                 <div className="mb-10 text-center">
                   <h2 className="text-2xl font-serif text-gold font-bold">
-                    KING’S CROWN
+                    RESTAURANT
                   </h2>
                 </div>
                 <nav className="flex flex-col space-y-6">

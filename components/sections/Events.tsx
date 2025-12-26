@@ -83,7 +83,7 @@ export function Events() {
             </h2>
             <p className="text-white/70 text-lg font-light leading-relaxed">
               Whether it's an intimate dinner for two, a corporate gathering, or a grand celebration, 
-              King's Crown offers the perfect setting. Reserve your table now for an unforgettable experience.
+              We offers the perfect setting. Reserve your table now for an unforgettable experience.
             </p>
             
             <div className="space-y-4 pt-4">
